@@ -1,0 +1,8 @@
+{
+    "PORT": "2700",
+    "MONGODB_USERNAME": "chatapp",
+    "MONGODB_PASSWORD": "chatapp",
+    "MONGODB_HOSTS": "localhost:27017",
+    "MONGODB_DATABASE": "chatapp",
+    "DATA_ENCRYPTION_PASSWORD": "01ed56e41688711739488c66f6006e54"
+}
